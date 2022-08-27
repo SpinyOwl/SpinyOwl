@@ -1,4 +1,4 @@
-[![SpinyOwl](https://user-images.githubusercontent.com/6692636/124932965-c9cb4e00-e003-11eb-8988-5875ae0c81b6.png)](https://github.com/SpinyOwl)
+[![SpinyOwl](header.png)](https://github.com/SpinyOwl)
 
 ### Top projects
 ----
