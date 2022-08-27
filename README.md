@@ -1,4 +1,4 @@
-[![SpinyOwl](header.png)](https://github.com/SpinyOwl)
+[![SpinyOwl](top_header.png)](https://github.com/SpinyOwl)
 
 ### Top projects
 ----
